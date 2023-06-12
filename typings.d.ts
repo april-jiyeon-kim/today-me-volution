@@ -15,3 +15,8 @@ type QuoteType = {
   author: string;
   category: string;
 };
+
+type Card = {
+  ko: string;
+  es: string;
+};
